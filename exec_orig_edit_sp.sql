@@ -17,7 +17,7 @@ AS
 
 BEGIN
 	--Staging table variables
-	DECLARE @v_edit_id varchar(30),@v_edit_id123 varchar(30)
+	DECLARE @v_edit_id varchar(30),@v_edit_id123 varchar(30)--chilbranch123
 		,@v_edit_set_id int
 		,@v_substitution_value varchar(30)
 		,@v_severity varchar(30)
